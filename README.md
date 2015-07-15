@@ -1,13 +1,14 @@
-*********************************************
-unity-Dilmaj Persian Dictionary version 0.5 
-*********************************************
+# Unity-Dilmaj 0.6
+Unity-Dilmaj is a small and fast English-to-Persian dictionary for Unity Dash.
 
-unity-Dilmaj is a small and fast English-to-Persian dictionary for Unity Dash.
+# How to create deb file
+```
+git clone https://github.com/AhmadHamzeei/unity-dilmaj.git
+cd unity-dilmaj
+sudo ./make_deb.sh
+```
 
-*********************************************
-unity-Dilmaj 0.5 (December 7, 2012 - 17 Aazar 1391)
-
-AUTHOUR: Farid Ahmadian 
-EMAIL: pesarkhobeee@gmail.com
-
+# Screenshot
+![screenshot1](dilmaj1.png)
+![screenshot1](dilmaj2.png)
 
