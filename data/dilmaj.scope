@@ -1,0 +1,19 @@
+[Scope]
+DBusName=com.canonical.Unity.Scope.Info.Dilmaj
+DBusPath=/com/canonical/unity/scope/info/dilmaj
+Icon=/usr/share/icons/unity-icon-theme/places/svg/service-yelp.svg
+QueryBinary=x-www-browser
+Keywords=dilmaj;translate;dict;dictionary;
+RequiredMetadata=
+OptionalMetadata=
+Loader=/usr/share/unity-scopes/dilmaj/unity_dilmaj_daemon.py
+Module=dilmaj.unity_dilmaj_daemon
+ModuleType=python3
+RemoteContent=false
+Type=info
+Name=Dilmaj
+Description=Dilmaj is a small and fast English-to-Persian dictionary for Unity Dash.
+SearchHint=Dilmaj
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=unity-scope-dilmaj
