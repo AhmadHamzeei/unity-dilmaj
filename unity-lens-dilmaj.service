@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=unity.singlet.lens.dilmaj
-Exec=/usr/bin/unity-dilmaj
